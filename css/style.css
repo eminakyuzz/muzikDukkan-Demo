@@ -1,0 +1,35 @@
+body {
+    background-color: Beige;
+}
+#home, #product{
+    text-align: center;
+}
+#abaut {
+    text-align: center;
+}
+#hakkımızda h2 {
+    text-align: center;
+}
+img {
+    width: 250px;
+    height: 350px;
+}
+#urun li {
+    list-style-position: inside
+}
+#home li {
+    list-style-position: inside
+}
+h1 {
+    color: crimson;
+}
+h2 {
+    color: blueviolet;
+}
+h3 {
+    color: goldenrod;
+}
+
+a {
+    text-decoration: none;
+}
